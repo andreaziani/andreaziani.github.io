@@ -6,7 +6,7 @@ subtitle: A little bit of my story
 
 Hi, I'm Andrea, a Software Engineer at Google Zürich. I have a Master's Degree in Computer Science from ETH Zurich, where I specialized in Data Engineering and Machine Learning. I'm passionate about using technology to solve real-world problems, and I'm always looking for new challenges.
 
-I'm currently working on Google Ads. Mainly focusing on building and optimizing data pipelines and servers to process billions of data every day. These pipelines are used to power a variety of Google Ads products, including the Google Ads UI, Google Ads API and several other reporting tools :)
+I'm currently working on Google Ads. Mainly focusing on building and optimizing data pipelines and servers to process billions of data every day. These pipelines are used to power a variety of Google Ads products, including the Google Ads UI, Google Ads API and empower millions of advertisers :) 
 
 Previously, I was an intern at Oracle Labs, I developed a machine learning-powered fuzzy matching algorithm for the Financial Crimes and Compliance Studio product. This algorithm was used to match customer data across multiple sources, which helped to improve the accuracy of financial crime investigations. 
 
