@@ -26,6 +26,7 @@ Here are some of my skills and experience:
 - Big Data
 - Advanced Databases and optimization
 - Advanced Algorithms
+- Computer Vision and 3D Vision
 - Object Oriented Programming and Design Patterns
 - Spark
 - Hadoop
@@ -36,6 +37,8 @@ Here are some of my skills and experience:
 - Java
 - Go
 - SQL
+- PyTorch
+- Keras
 - Protocol buffers, JSON, XML, and almost every other format
 - CI/CD
 - Linux
