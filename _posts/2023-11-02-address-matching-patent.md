@@ -14,4 +14,3 @@ This project presents techniques for matching an address string to a standardize
 
 Checkout the full paper:
 - [paper](https://patents.google.com/patent/US20230350903A1/)
-```
